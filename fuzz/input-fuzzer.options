@@ -1,2 +1,2 @@
-[libfuzzer]
+nnn[libfuzzer]
 max_len = 512
